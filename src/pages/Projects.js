@@ -28,7 +28,7 @@ const Projects = () => {
                                             CULTR Magazine
                                         </ProjectTitle>
                                         <Blurb>
-                                        A dynamic magazine web application built for Michigan State University's CULTR Magazine Club. Developed with a React.js front end, Node.js/Express.js backend, MongoDB database, and hosted on an Amazon EC2 Linux instance, utilizing Amazon S3 for media storage.
+                                        A dynamic magazine web application built for MSU's CULTR Magazine Club. Developed with a React.js front end, Node.js backend, MongoDB, and hosted on an Amazon EC2 Linux instance, with Amazon S3 for media storage.
                                         </Blurb>
                                         <Technologies>
                                         <i class="fa-brands fa-react"

@@ -42,7 +42,7 @@ const Container = styled.div`
     position: relative;
 
     @media (max-width: 768px) {
-        height: 8%;
+        height: 6%;
     }
 `;
 
