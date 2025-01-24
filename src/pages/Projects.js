@@ -295,7 +295,7 @@ const Projects = () => {
                                             JH BLog
                                         </ProjectTitle>
                                         <Blurb>
-                                        A blog web application made to express my thoughts about what projects I'm currently working on. Developed with React Native, a MongoDB database and a Node.js/Express.js backend, and hosted on an Amazon EC2 Linux instance.
+                                        A blog web application made to express my thoughts about what projects I'm currently working on. Developed with React Native, MongoDB and Node.js, and hosted on an Amazon EC2 Linux instance.
                                         </Blurb>
                                         <Technologies>
                                         <i class="fa-brands fa-react"
