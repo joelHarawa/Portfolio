@@ -262,7 +262,7 @@ const Projects = () => {
                                         <i
                                         style={{ color: '#FFFFFF', fontsize: '28px', opacity: 0.65, height: '10%'}}
                                         >C++</i>
-                                        <RepoLink to="https://github.com/joelHarawa/cultrmsu"
+                                        <RepoLink to="https://github.com/joelHarawa/27-Puzzle-A-Search"
                                                   target="_blank">Repo <i class="fa-brands fa-github"
                                         style={{ color: '#FFFFFF', fontSize: '20px'}}
                                         ></i></RepoLink>
@@ -285,7 +285,7 @@ const Projects = () => {
                                         style={{ color: '#FFFFFF', fontsize: '28px', opacity: 0.65 }}
                                         ></i>
                                         </Technologies>
-                                        <RepoLink to="https://github.com/joelHarawa/cultrmsu"
+                                        <RepoLink to="https://github.com/joelHarawa/jobTracker"
                                                   target="_blank">Repo <i class="fa-brands fa-github"
                                         style={{ color: '#FFFFFF', fontSize: '20px'}}
                                         ></i></RepoLink>
