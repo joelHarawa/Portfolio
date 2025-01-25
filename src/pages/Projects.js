@@ -292,7 +292,7 @@ const Projects = () => {
                                     </Project>
                                     <Project>
                                         <ProjectTitle>
-                                            JH BLog
+                                            AverageJoel
                                         </ProjectTitle>
                                         <Blurb>
                                         A blog web application made to express my thoughts about what projects I'm currently working on. Developed with React Native, MongoDB and Node.js, and hosted on an Amazon EC2 Linux instance.
